@@ -1,0 +1,5 @@
+jupyter
+nltk
+pandas
+torch
+transformers
